@@ -1,0 +1,10 @@
+# Welcome {.unnumbered}
+
+This is a workshop on open data.  
+  
+If you like the workshop and want to keep it forever, make it yours. You can 
+
+1. fork [the github repo]() this Quarto book is based on
+2. go to settings of you new repo and go to "pages". Then set ... to "gh-pages"
+3. set the description of your repo to ...
+4. open your new webpage by clicking on ...
