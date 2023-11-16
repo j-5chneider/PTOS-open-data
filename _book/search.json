@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PTOS-open-data",
     "section": "",
-    "text": "Preface\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome\nThis is a workshop on open data.\nIf you like the workshop and want to keep it forever, make it yours. You can\n\nfork the github repo this Quarto book is based on\ngo to settings of you new repo and go to “pages”. Then set … to “gh-pages”\nset the description of your repo to …\nopen your new webpage by clicking on …"
   },
   {
     "objectID": "intro.html",
