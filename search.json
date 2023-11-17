@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "PTOS-open-data",
     "section": "",
-    "text": "Welcome\nThis is a workshop on open data.\nIf you like the workshop and want to keep it forever, make it yours. You can\n\nfork the github repo this Quarto book is based on\ngo to settings of you new repo and go to “pages”. Then set … to “gh-pages”\nset the description of your repo to …\nopen your new webpage by clicking on …"
+    "text": "Welcome\nThis is a workshop on open data.\nIf you like the workshop and want to keep it forever, make it yours. For that…\n\nFork the github repo this Quarto book is based on\nGo to settings of your new repo and go to the “pages” section. Then set the “Branch” option to gh-pages (leave the dropdown to the right of this at /root)\nBack on the main repo site, click on “About” (top right). In the URL of the website, change “j-5chneider” to your username “[your github username].github.io/PTOS-open-data/” (you might need to activate GitHub Pages for that, by creating a GitHub Pages repo)\nopen your new webpage by clicking on the link in the “About” section"
   },
   {
     "objectID": "intro.html",
