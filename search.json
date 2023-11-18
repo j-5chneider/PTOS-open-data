@@ -4,27 +4,34 @@
     "href": "index.html",
     "title": "PTOS-open-data",
     "section": "",
-    "text": "Welcome\nThis is a workshop on open data.\nIf you like the workshop and want to keep it forever, make it yours. For that…\n\nFork the github repo this Quarto book is based on\nGo to settings of your new repo and go to the “pages” section. Then set the “Branch” option to gh-pages (leave the dropdown to the right of this at /root)\nBack on the main repo site, click on “About” (top right). In the URL of the website, change “j-5chneider” to your username “[your github username].github.io/PTOS-open-data/” (you might need to activate GitHub Pages for that, by creating a GitHub Pages repo)\nopen your new webpage by clicking on the link in the “About” section"
+    "text": "Welcome\nThis is a workshop on open data.\n\nCC-BY aukeherrema.nl\n\n\n\n\nIf you like the workshop…\n\nand want to keep it forever, make it yoursgive it a star in GitHub\n\n\nFor that…\n\nFork the github repo this Quarto book is based on\nGo to settings of your new repo and go to the “pages” section. Then set the “Branch” option to gh-pages (leave the dropdown to the right of this at /root)\nWait a minute to let the website get deployed. You can check on the status in the “Actions” tab of your repo.\nBack on the main repo site, click on “About” (top right). In the URL of the website, change “j-5chneider” to your username “[your github username].github.io/PTOS-open-data/” (you might need to activate GitHub Pages for that, by creating a GitHub Pages repo)\nopen your new webpage by clicking on that link in the “About” section\n\n\n\n\n\nSo you get noticed if I update something on the github repo.\nAnd I get that sweet sweet dopamine. Hmm dopamine."
   },
   {
-    "objectID": "intro.html",
-    "href": "intro.html",
-    "title": "1  Introduction",
+    "objectID": "definitions1.html",
+    "href": "definitions1.html",
+    "title": "1  Openness",
     "section": "",
-    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n1 + 1\n\n[1] 2\n\n\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "anyone\ncan readily access the data\nat no more than a reasonable reproduction cost (i.e., internet connection)\n\n(Open Knowledge Foundation, 2023)\n\n\n\n\n\n\n\n\nOpenness is not a dichotomy\n\n\n\n“As open as possible as closed as necessary”\n(European Commission, 2023, p. 36)\n\n\n\n\n\n\nEuropean Commission. (2023). Horizon Europe (HORIZON). HE Programme Guide. Version 4.0. Publications Office.\n\n\nOpen Knowledge Foundation. (2023). What is Open Data? In Open Data Handbook. https://opendatahandbook.org/guide/en/what-is-open-data/."
   },
   {
-    "objectID": "summary.html",
-    "href": "summary.html",
-    "title": "2  Summary",
+    "objectID": "definitions2.html",
+    "href": "definitions2.html",
+    "title": "2  FAIRness",
     "section": "",
-    "text": "In summary, this book has no content whatsoever.\n\n1 + 1\n\n[1] 2"
+    "text": "https://www.go-fair.org/fair-principles/\n(Wilkinson et al., 2016)\n\n\n\n\n\n\nFAIRness vs. openness\n\n\n\n“does not necessarily mean that data has to be “open” […] even highly protected data can be FAIR data”\n(Kraft, 2023)\n\n\n(Kraft, 2023) (FAIR principles and the role of scientists)\n\nFindableAccessibleInteroperableReusable\n\n\nThe problem:\nJust because we provide data online, doesn’t mean that others will find it.\nWe could have the greatest data set to answer further research questions - if our colleagues don’t know it exists or can’t locate the data, openness will be of little value.\nThe solutions:\n\nGet a persistent identifier (e.g., DOI), where you provided your data\n\nresearch data centers: Verbund FDB, RDC at ZPID, …\nrepositories: Zenodo, psycharchives.org, osf.io, …\n\nMention DOI in publication that builds on this data (e.g., in the “data accessibility statement”)\nDescribe your data as richly as possible (metadata). Research data centers offer form fields tailored to the discipline or data type. With repositories use alternative possibilities, such as keyword fields.\n\ne.g., which variables does the quantitative data set contain?\ne.g., which topics does your data cover?\ne.g., which population did you draw your sample from?\n\n\n\n\nThe problem:\nJust because others find our data doesn’t mean the access barriers are as low as possible and doesn’t mean they know in which way they are allowed to access it. Examples:\n\nProviding a link to the data in the text of a paywalled journal article\nUnclear licensing / use conditions when providing data (e.g., are non-researchers allowed to access the data or is it only open for qualified researchers?)\n\nThe solutions:\n\nMake sure access is free of charge (or as cheap as possible)\n\ne.g., by providing link to data in publicly accessible sections of journal articles that are not open access\ne.g., by using repositories or research data centers that allow access free of charge\n\nMake sure users know if they can access and under which conditions\n\ne.g., research data centers ensure that terms of use are clear (who may access under what conditions) and offer different levels of access restriction\ne.g., on repositories provide a readme-file and an open license (e.g., CC0, CC-BY, CC-BY-SA) with data sets for access cases\n\n\n\n\nThe problem:\nJust because others downloaded our data doesn’t mean they can open and manipulate it.\nThe solutions:\n\nUse file formats with open licenses\n\ne.g., tabular data: CSV (with additional labelling script), RData\ne.g., text data: PDF, HTML, ODT, RTF\n\nMake sure users know how different files are related to one another\n\ne.g., define which file contains student data and which teacher data\ne.g., define which file contains data from cohort 1 and which cohort 2, …\n\n\n\n\nThe problem:\nJust because others opened our data doesn’t mean they understand the data and its use-conditions. Examples:\n\nOthers can’t understand what the column names of the tabular data set mean: Which columns in the data set relate to which variables in the journal article?\nCan someone from sociology use the data set from psychology they found on osf.io?\nDoes someone reusing a data set have to cite the authors?\n\nThe solutions:\n\nRich description/explanation of what user will find in the data set (≠ meta descriptions about the data set as a whole, as for accessibility)\n\ne.g., provide a codebook. How to semi-automatically create a codebook, see the R package codebook\n\nProvide a license for the use-cases\n\nagain, research data centers ensure that terms of use are clear (who may use under what conditions)\nagain, on repositories provide a readme-file and an open license (e.g., CC0, CC-BY, CC-BY-SA) with data sets for the use-cases\n\n\n\n\n\n\n\n\n\nKraft, A. (2023). The FAIR Data Principles. https://doi.org/10.23668/PSYCHARCHIVES.13577\n\n\nWilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3(1), 160018. https://doi.org/10.1038/sdata.2016.18"
+  },
+  {
+    "objectID": "definitions3.html",
+    "href": "definitions3.html",
+    "title": "3  A good definition",
+    "section": "",
+    "text": "Includes aspects of fairness. See\nhttps://opendatahandbook.org/guide/en/what-is-open-data/"
   },
   {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "European Commission. (2023). Horizon Europe\n(HORIZON). HE Programme Guide.\nVersion 4.0. Publications Office.\n\n\nKraft, A. (2023). The FAIR Data Principles. https://doi.org/10.23668/PSYCHARCHIVES.13577\n\n\nOpen Knowledge Foundation. (2023). What is Open Data? In\nOpen Data Handbook.\nhttps://opendatahandbook.org/guide/en/what-is-open-data/.\n\n\nWilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G.,\nAxton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L.\nB., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M.,\nDillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B.\n(2016). The FAIR Guiding Principles for scientific data\nmanagement and stewardship. Scientific Data, 3(1),\n160018. https://doi.org/10.1038/sdata.2016.18"
   }
 ]
