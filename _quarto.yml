@@ -4,22 +4,53 @@ project:
 book:
   title: "PTOS-open-data"
   author: "Jürgen Schneider"
-  date: "16.11.2023"
+  date: 2023-11-16
+  date-format: "DD MMMM YYYY"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - part: "Reasons"
+      chapters:
+        - reasons.qmd
+        - reasons_external1.qmd
+        - reasons_external2.qmd
+        - reasons_research1.qmd
+        - reasons_research2.qmd
+        - reasons_researcher1.qmd
+    - part: "Open and FAIR Data"
+      chapters: 
+        - definitions1.qmd
+        - definitions2.qmd
+        - definitions_exercise.qmd
+    - part: "Limits"
+      chapters: 
+        - limits1.qmd
+    - part: "Workflow"
+      chapters: 
+        - workflow1.qmd
+        - workflow2.qmd
+        - workflow3.qmd
+        - workflow4.qmd
+        - workflow5.qmd
+    - part: "Reflection"
+      chapters: 
+        - barriers1.qmd
+  appendices: 
     - references.qmd
   page-navigation: true
 
 bibliography: references.bib
+csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
 
 format:
   html:
-    theme: cosmo
+    theme: [cosmo, style.css]
   pdf:
     documentclass: scrreprt
 
 execute:
   freeze: auto
+  
+comments:
+  hypothesis: 
+    theme: clean
 

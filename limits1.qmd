@@ -1,0 +1,87 @@
+# Limits
+
+## Not being open may be important
+
+**When does "as closed as necessary" apply?**  
+  
+The protection of individuals comes first and is more important than the potential reuse of data
+
+::: {.panel-tabset}
+
+### Marginalized/vulnerable groups
+
+* e.g., individuals traumatized by war or who experienced sexual abuse
+* At the same time: Can sharing data help to protect these groups from being over-researched (possibly re-traumatization)?
+
+### "Closed doors"
+
+* cases in which field access is obstructed or denied by the data provision [@Prosser.etal.2022]
+* cases in which sharing reduces the reduces the willingness to participate
+
+
+### Costs > benefit
+
+* e.g., low reuse potential -> publish for reproducibility
+* e.g., when obtaining permission from the school authorities is extremely complicated 
+* e.g., epistemic problem: context of data collection is highly relevant and other researchers "haven't been there" [@Mauthner.etal.1998] -> publish for intersubjective comprehensibility
+* e.g., can't anonymize data -> synthpop, create input-output-documents via RMarkdown/Quarto
+
+:::
+
+\
+
+## It's not all your responsibility
+
+* Responsibility of opening research is a **collective responsibility** in the **"research ecosystem"** [@EuropeanCommission.2018; @RfII.2019]
+* Researchers are just one part of this
+
+![](www/model.jpg){width=85%}
+
+::: {.callout-note icon=false collapse="true"}
+### Infrastructure
+
+* Does suitable infrastructure exist?
+* Is it "easy to use" and cheap?
+* Is it tailored to my needs and type of data?
+* Does it allow the implementation of FAIR data?
+* Are there resources to support data sharing?
+
+:::
+
+::: {.callout-note icon=false collapse="true"}
+### Context
+
+* Do scientific societies, journals, or research funders encourage sharing?
+* Is it common practice ("culture") in my field of research to share data? [@Bishop.2006]
+* Are there standards established for data sharing?
+* Do ethics committees request detailed reasoning for the intent to collect own data as opposed to re-using?
+
+:::
+
+::: {.callout-note icon=false collapse="true"}
+### Research project
+
+See reasons above on
+
+* Marginalized/vulnerable groups
+* "Closed doors"
+* Costs > benefit
+
+:::
+::: {.callout-note icon=false collapse="true"}
+### Researchers
+
+* Willingness and concerns toward sharing data [@Mozersky.etal.2021]
+* Knowledge, experiences and skills with relevant processes
+
+:::
+
+
+
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::
+
+\

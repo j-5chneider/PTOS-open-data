@@ -1,0 +1,21 @@
+# Barriers
+
+Let's assume: Sharing data is possible. In one way or the other.  
+  
+**Why isn't everybody sharing all data "as open as possible as closed as necessary"?**
+
+1. Check out the [flow chart](workflow1.qmd) again
+2. Individually [3min]: Reflect on 
+   - What is a barrier/challenge to you?
+   - What might be a powerful barrier/challenge for others?
+3. In the breakout rooms [12min]: Discuss
+   - What are the biggest barriers for you/others?
+   - What would be different in an "ideal world" that would lead to you/others overcoming these barriers?
+   - Document the barriers & your needs in [this sheet](https://cryptpad.fr/sheet/#/2/sheet/edit/WOjk7Qf9VNoXeBainrspJnpe/embed/)
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::
+
+\

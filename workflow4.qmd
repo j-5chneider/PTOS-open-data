@@ -1,0 +1,83 @@
+# Workflow 3
+
+## Informed consent
+**Why?**  
+
+* Personal data is subject to General Data Protection Regulation (GDPR)
+* Informed consent must therefore fulfill a number of requirements
+  - purpose of data collection (includes *sharing the data* and *future use*)<br />-> therefore often "broad consent"
+  - participation is voluntary and without disadvantages
+  - revocation is possible at any time (until anonymized)
+   
+**Resources**  
+
+* [Checklist of legally compliant consent forms, German](https://doi.org/10.25656/01:22297) (VerbundFDB, 2019)
+* [Template for informed consent, German standard language](https://doi.org/10.25656/01:22301) (VerbundFDB, 2018)
+* [Template for informed consent, German plain language](https://doi.org/10.25656/01:22302) (VerbundFDB, 2018)
+* [Template for informed consent, German](https://www.qualiservice.org/de/datenschutz.html) (Qualiservice)
+* [Explanations including template (DGPs), German](https://zwpd.transmit.de/images/zwpd/dienstleistungen/ethikkommission/0.1a_datenschutzrechtliche_empfehlungen_einwilligungforschungsvorhaben.pdf) (not specific for reuse)
+* [Overview and links concerning informed consent (ZPID), English](https://datawizkb.leibniz-psychology.org/index.php/before-my-project-starts/informed-consent/)
+* [Explanations and definitions around informed consent (Michigan Tech), US](https://www.mtu.edu/research/integrity/docs/michigan-tech-hrpp-standard-operations-procedures.pdf) (not specific for reuse)
+
+\
+
+## Decide for access restrictions
+**Why?**  
+
+* Some data cannot or should not be anonymized (e.g., losing their reuse potential)
+* Therefore access needs to be restricted to certain groups (as defined in consent form)
+
+::: {.callout-note collapse="true" icon=false}
+### With repositories...
+restriction levels are usually limited to
+
+* public (everybody sees everything)
+* private (only you and your collaborators see everything)
+:::
+
+::: {.callout-note collapse="true" icon=false}
+### With research data centers... 
+there are different restriction levels possible for different files (*in the same project*). Restriction levels depend on what the research data center offers.   
+\
+  
+| Level              | Prerequesite                                                                                             | For what                                                         |   |
+|--------------------|----------------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---|
+| Public Usefile     |                                                                                                          | anonymized data, codebooks, transcription rules                  |   |
+| Student Usefile    | Short application states use purpose                                                                     | non-anonymized data with right to use for teaching               |   |
+| Scientific Usefile | Longer application states use purpose, handling of data, and data analyses; identification via PostIdent | non-anonymized data with right to use for research               |   |
+| Remote Access      | ... + access only via virtual machine                                                                    | non-anonymized sensible data with right to use for research      |   |
+| Safe room          | ... + access only in person at research institute                                                        | non-anonymized very sensible data with right to use for research |   |
+  
+\
+
+An example: [Project DESI](http://dx.doi.org/10.7477/6:1:1), where 
+
+* codebooks are publicly accessible (files on the right side)
+* video data are restricted for scientific use (files on the bottom of page)
+
+:::
+
+   
+**Resources**  
+
+* [Examples of restriction levels (VerbundFDB)](https://doi.org/10.25656/01:21990) [@Meyermann.Porzelt.2019, p. 30f]
+* [Examples of restriction levels (DGPs)](https://doi.org/10.1026/0033-3042/a000514) [@DGPs.2021, p. 141ff]
+
+**Alternatives**  
+
+* *Embargo period*
+  - Specify a time period, before data go public
+  - Possible with research data centers and some repositories
+* *Exclude certain research questions* from reuse
+  - Specify these research questions in the terms of use
+  - Usually only possible with research data centers, except you are writing a very good license yourself
+* Create *synthetic data* (e.g., with R package [`synthpop`](https://synthpop.org.uk/))
+  - Mimics the properties of your data
+  - Then possible to share this synthetic data set
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::
+
+\

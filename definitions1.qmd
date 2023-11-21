@@ -1,0 +1,21 @@
+# Openness
+
+* **anyone**
+* can **readily access** the data
+* at no more than a **reasonable reproduction cost** (i.e., internet connection)
+
+[@OpenKnowledgeFoundation.2023a]
+
+\
+
+::: {.callout-tip}
+## Openness is not a dichotomy
+
+"As open as possible as closed as necessary"  
+[@EuropeanCommission.2023a, p. 36]
+:::
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

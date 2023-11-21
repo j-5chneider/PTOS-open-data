@@ -1,0 +1,16 @@
+# Your reasons
+
+\
+
+### What are your reasons? {.unnumbered}
+
+Now that you are here, there seem to be some drivers for you to share data. What are these?
+
+1. Go to [this whiteboard](https://cryptpad.fr/diagram/#/2/diagram/edit/MIeS-bAIJP8xfv2oYvYEcPtR/embed/)
+2. Take one or more of the blue rectangles from the right
+3. Write your reason in the rectangle. One reason per shape.
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

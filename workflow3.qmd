@@ -1,0 +1,44 @@
+# Workflow 2
+
+## Write a data management plan
+**Why?**  
+* supports researchers in the process of generating FAIR research data
+* ensures good scientific practice
+   
+**Resources**  
+Templates and online tools for specific applications  
+
+* Template [Standardized data management plan for educational research "Stamp"](https://www.forschungsdaten-bildung.de/stamp-nutzen) (FDZ Bildung): Detailed form with specific instructions and assistance
+* For rapid documentation: [DMP template](http://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx) (European Research Council) with four open questions
+* [Online tool for machine-readable DMPs](https://argos.openaire.eu/home) (Open Aire)
+* [Online tool supporting the creation of a DMP](https://datawiz.leibniz-psychology.org/DataWiz/?datawiz_locale=en) (ZPID)
+
+Standards  
+
+* D-Psy-FAIR [@Blask.etal.2022]
+  - [Manual](https://doi.org/10.23668/psycharchives.12180)
+  - [Online Tutorial](https://doi.org/10.23668/psycharchives.12320)
+  - [Slides](https://doi.org/10.23668/psycharchives.12180)
+
+
+\
+
+## Decide for a repository (or research data center)
+**Why?**  
+Deciding on a specific repository or research data center early on helps to 
+
+* meet its requirements
+* identify whether there are templates available
+* identify whether the employees can support the sharing process
+   
+**Resources**  
+* search for a research data center that fits your needs: [re3data.org](https://www.re3data.org/)
+* recommended research data centers: [Verbund FDB (education, Germany)](https://www.forschungsdaten-bildung.de/), [RDC at ZPID (psychology, Germany)](https://rdc-psychology.org/), ...
+* recommended repositories: [Zenodo](https://zenodo.org/), [psycharchives.org](https://www.psycharchives.org/), [osf.io](https://osf.io/), ... 
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::
+
+\

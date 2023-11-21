@@ -1,0 +1,21 @@
+# Researcher
+
+* Open Data Survey: 
+   - 75% of researchers say there is too little credit for sharing data [@Goodey.etal.2022]
+   - main drivers: perceived higher citation (67%), increased perceived impact and visibility (61%)
+* new metrics for evaluation evolving
+  - [CoARA](https://coara.eu/): "Value outputs associated with openness (FAIR data sets, [...]" [@CoARA.2022, p. 21]
+  - signatories: DGPs, ERC, European Commission, DFG, Leibniz Association, ...
+  - Example: DGPs recommendations on hiring and promotion [@Schonbrodt.etal.2022; @Gartner.etal.2022]
+  
+![](www/dgps_eval.jpg){width=100%}
+
+\
+
+* Data for reuse: Additional publication (e.g., data note in F1000 Research)
+* With higher transparency, researchers have higher trust in authors [@Schneider.etal.2022c]
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

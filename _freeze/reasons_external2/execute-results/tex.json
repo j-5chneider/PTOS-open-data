@@ -1,0 +1,20 @@
+{
+  "hash": "0ed618c051cf66a095daca072720ea9a",
+  "result": {
+    "markdown": "# External Incentives II\n\n## Policies scientific societies\n\nExamples of societies that have established a policy on open and FAIR data.  \n  \n![](www/logo-dgps.png){width=200px}\n![](www/logo-dgs.jpg){width=200px}\n![](www/logo-dgfe.jpg){width=200px}\n![](www/logo-gebf.jpg){width=200px}\n![](www/logo-gfd.jpg){width=200px}\n\n[@Gollwitzer.etal.2021; @DGS.2019; @DGfE.etal.2020]\n\n\n\n::: {.cell}\n\n:::\n\n\n\n  \n\n![](reasons_external2_files/figure-pdf/fa-icon-dd0a6460cad7757ad7fd395e23a74bf2.pdf){height=2em width=2em} Look up the scientific society most relevant to you and check if they have a **policy/recommendation/guideline** on open science or sharing data.\n\n\\\n\n## Journal policies\n\nSome journals encourage, some journals mandate a **data availability statement** in the manuscript.\n\n![](www/top.jpg){width=100%}  \n  \nE.g.,\n\n* [Psychological Bulletin](https://www.apa.org/pubs/journals/bul#accordion410__content_4): Data transparency Level 2\n* [Meta Psychology](https://open.lnu.se/index.php/metapsychology/about): Data transparency Level 3\n* [Psychological Science](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions#DATA): Data transparency Level 1\n  \nSee the [TOP Factor website](https://topfactor.org/journals?factor=Data+Transparency) to search for the data transparency rating of your favorite journal.\n   \nKeep in mind: \"Data available upon reasonable request\" -> only 6.8% of data sets were acutally provided [@Gabelica.etal.2022]\n\n::: {.column-margin}\nQuestions to be answered at the end?  \nPlease [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!\n:::",
+    "supporting": [
+      "reasons_external2_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

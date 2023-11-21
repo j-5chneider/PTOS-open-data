@@ -1,0 +1,26 @@
+# Overview
+
+
+![](www/workflow.jpg){width=100%}
+
+
+
+::: {.callout-tip collapse="true"}
+### Table: Steps & resources
+
+| What                     | Resources |
+|--------------------------|-----------|
+| Search for reusable data | Research data centers have searchable databases <br/>[re3data.org](https://www.re3data.org/), <br />[Verbund FDB](https://www.forschungsdaten-bildung.de/), <br />[RDC at ZPID](https://rdc-psychology.org/) |
+| Sharing for reuse or reproducibility | Costs: How much effort is required? Consent for reuse available?<br />Benefits: Analysis potential, Quality of data |
+| Data management plan | Templates/Tools<br />[Stamp (VerbundFDB)](https://www.forschungsdaten-bildung.de/stamp-nutzen)<br />[DMP template (ERC)](http://erc.europa.eu/sites/default/files/document/file/ERC-Data-Management-Plan.docx)<br />[Online tool (Open Aire)](https://argos.openaire.eu/home)<br />[Online tool "DataWiz" (ZPID)](https://datawiz.leibniz-psychology.org/DataWiz/?datawiz_locale=en)<br /><br />Standard<br />[D-Psy-FAIR (ZPID)](https://doi.org/10.23668/psycharchives.12180) |
+| Decide for a repository or RDC | Research data center:<br />Search: [re3data.org](https://www.re3data.org/)<br />[Verbund FDB (education, Germany)](https://www.forschungsdaten-bildung.de/)<br />[RDC at ZPID (psychology, Germany)](https://rdc-psychology.org/)<br /><br />Repositories<br />[Zenodo](https://zenodo.org/)<br />[psycharchives.org](https://www.psycharchives.org/)<br />[osf.io](https://osf.io/) |
+| Informed consent | [Checklist, German](https://doi.org/10.25656/01:22297)<br />[Template, German standard language](https://doi.org/10.25656/01:22301)<br />[Template, German plain language](https://doi.org/10.25656/01:22302)<br />[Template (qualitative data), German](https://www.qualiservice.org/de/datenschutz.html)<br />[Explanations + template (DGPs), German](https://zwpd.transmit.de/images/zwpd/dienstleistungen/ethikkommission/0.1a_datenschutzrechtliche_empfehlungen_einwilligungforschungsvorhaben.pdf)<br />[Overview + links (ZPID), English](https://datawizkb.leibniz-psychology.org/index.php/before-my-project-starts/informed-consent/)<br />[Explanations + definitions (Michigan Tech), US](https://www.mtu.edu/research/integrity/docs/michigan-tech-hrpp-standard-operations-procedures.pdf) |
+| Access restrictions | [Examples (VerbundFDB)](https://doi.org/10.25656/01:21990)<br />[Examples (DGPs)](https://doi.org/10.1026/0033-3042/a000514)<br /><br />There are [alternatives](workflow4.qmd) to restricting access! |
+| Create codebook | R Package [`codebook`](https://rubenarslan.github.io/codebook/articles/codebook_tutorial.html)<br />codebook from [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/) |
+
+:::
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

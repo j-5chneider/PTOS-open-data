@@ -1,0 +1,21 @@
+# Research II
+
+## Reuse
+
+The reuse of research data can take many forms
+
+
+
+| Purpose                       | Advantage                       | Needs                                          |
+|-------------------------------|---------------------------------|------------------------------------------------|
+| Answer new research questions | Saves resources                 | analysis potential of data, good documentation [@Steinhardt.etal.2021; @Logan.etal.2021] |
+| Teaching / student theses     | Real-life-oriented education    | good documentation                             |
+| Meta-analyses                 | Easier estimation of parameters | Strictly reproducible code [e.g., @Burgard.etal.2022] |
+| Historical perspective        | Data as historical artifacts    | Potential of data varies                       |
+
+
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

@@ -1,0 +1,10 @@
+# Exercise
+
+1. Go to [this repository](https://github.com/j-5chneider/subcommunitiesOS)
+2. Discuss for **which purposes** you consider this type of sharing to be **suitable** / **less suitable**
+2. Discuss what you think makes this type of data sharing **FAIR** and what could be **improved**
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

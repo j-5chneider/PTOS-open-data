@@ -1,0 +1,56 @@
+# External Incentives I
+
+## Research funders
+
+::: {.callout-note icon=false}
+### DFG
+
+
+*DFG Guidelines on the Handling of Research Data*
+
+> "Assuming that the publication of research data [...] does not conflict with the rights of third parties (in particular data protection or copyright), research data should be *made available* as soon as possible [...] that allows it to be usefully *reused* by third parties" [@DFG.2015b, p. 1]  
+  
+*Guidelines for Safeguarding Good Research Practice. Code of Conduct*
+
+> "Where possible and reasonable, this includes making the research data [...] available" [@DFG.2019a, p. 19]
+:::
+
+\
+
+::: {.callout-tip icon=false}
+### BMBF
+Typical section in calls for proposals
+
+> "Zuwendungsempfänger sollen, wann immer möglich, die im Rahmen des Projekts gewonnenen Daten [...] in nachnutzbarer Form einer geeigneten Einrichtung [...] zur Verfügung stellen, um [...] Replikationen und gegebenenfalls Sekundärauswertungen [...] zu ermöglichen. Repositorien sollten aktuelle Standards für Datenveröffentlichungen (FAIR Data-Prinzipien) erfüllen"
+
+z.B. in
+
+:::: {.columns}
+
+::: {.column width="50%"}
+*Ausschreibung "Wissenschafts- und Hochschulforschung (WiHo)" 10.11.2023*  
+[BMBF, 2023](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2023/11/2023-11-10-Bekanntmachung-WiHo.html)
+:::
+
+::: {.column width="50%"}
+*Ausschreibung zu "klinischen Studien mit hoher Relevanz für die Patientenversorgung" 09.11.2023*
+[BMBF, 2023](https://www.bmbf.de/bmbf/shareddocs/bekanntmachungen/de/2023/11/2023-11-09-Bekanntmachung-Patientenversorgung.html)
+:::
+
+::::
+:::
+
+\
+
+::: {.callout-warning icon=false}
+### ERC 
+*Open Research Data and Data Management Plans Information for ERC grantees*
+
+> "Grantees are required to deposit their research data in a repository and provide open access at least to those data"
+[@ERC.2022, p. 4]
+:::
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::

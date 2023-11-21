@@ -1,0 +1,25 @@
+# Workflow 4
+
+## Create codebook
+**Why?**  
+Remember?
+
+> Vagueness Makes Assessing Reproducibility a Nightmare  
+> most successful reproductions are predominantly the result of tedious and time-consuming work
+> information about the provided raw data was often difficult to understand, and information about the relevant variables, data manipulations, and the used statistical model was often vague or inaccurate
+[@Artner.etal.2021, p. 12]
+   
+**Resources**  
+
+* R Package [`codebook`](https://rubenarslan.github.io/codebook/articles/codebook_tutorial.html)
+  - semi-automated creation of a codebook (depending on how well prepared/labelled your data set is)
+  - in combination with the [formr](https://formr.org/) survey framework, this package saves you a ton of time
+  - still has some minor bugs, be prepared to mingle with it
+* Codebook as a result of using [DataWiz](https://datawiz.leibniz-psychology.org/DataWiz/)
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::
+
+\

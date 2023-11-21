@@ -1,0 +1,43 @@
+# External Incentives II
+
+## Policies scientific societies
+
+Examples of societies that have established a policy on open and FAIR data.  
+  
+![](www/logo-dgps.png){width=200px}
+![](www/logo-dgs.jpg){width=200px}
+![](www/logo-dgfe.jpg){width=200px}
+![](www/logo-gebf.jpg){width=200px}
+![](www/logo-gfd.jpg){width=200px}
+
+[@Gollwitzer.etal.2021; @DGS.2019; @DGfE.etal.2020]
+
+```{r}
+```
+
+  
+
+`r fontawesome::fa("pencil", height="2em", width="2em")` Look up the scientific society most relevant to you and check if they have a **policy/recommendation/guideline** on open science or sharing data.
+
+\
+
+## Journal policies
+
+Some journals encourage, some journals mandate a **data availability statement** in the manuscript.
+
+![](www/top.jpg){width=100%}  
+  
+E.g.,
+
+* [Psychological Bulletin](https://www.apa.org/pubs/journals/bul#accordion410__content_4): Data transparency Level 2
+* [Meta Psychology](https://open.lnu.se/index.php/metapsychology/about): Data transparency Level 3
+* [Psychological Science](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions#DATA): Data transparency Level 1
+  
+See the [TOP Factor website](https://topfactor.org/journals?factor=Data+Transparency) to search for the data transparency rating of your favorite journal.
+   
+Keep in mind: "Data available upon reasonable request" -> only 6.8% of data sets were acutally provided [@Gabelica.etal.2022]
+
+::: {.column-margin}
+Questions to be answered at the end?  
+Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
+:::
