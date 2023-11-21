@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>PTOS-open-data - 8&nbsp; FAIRness</title>
+<title>PTOS-open-data - 10&nbsp; Limits</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -49,8 +49,8 @@ div.csl-indent {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./definitions_exercise.html" rel="next">
-<link href="./definitions1.html" rel="prev">
+<link href="./workflow1.html" rel="next">
+<link href="./definitions_exercise.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -98,7 +98,7 @@ div.csl-indent {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./definitions1.html">Open and FAIR Data</a></li><li class="breadcrumb-item"><a href="./definitions2.html"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">FAIRness</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./limits1.html">Limits</a></li><li class="breadcrumb-item"><a href="./limits1.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Limits</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -193,7 +193,7 @@ div.csl-indent {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./definitions2.html" class="sidebar-item-text sidebar-link active">
+  <a href="./definitions2.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">FAIRness</span></span></a>
   </div>
 </li>
@@ -216,7 +216,7 @@ div.csl-indent {
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./limits1.html" class="sidebar-item-text sidebar-link">
+  <a href="./limits1.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Limits</span></span></a>
   </div>
 </li>
@@ -303,14 +303,21 @@ div.csl-indent {
 <div id="quarto-sidebar-glass" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#not-being-open-may-be-important" id="toc-not-being-open-may-be-important" class="nav-link active" data-scroll-target="#not-being-open-may-be-important"><span class="header-section-number">10.1</span> Not being open may be important</a></li>
+  <li><a href="#its-not-all-your-responsibility" id="toc-its-not-all-your-responsibility" class="nav-link" data-scroll-target="#its-not-all-your-responsibility"><span class="header-section-number">10.2</span> It’s not all your responsibility</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content page-columns page-full" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">FAIRness</span></h1>
+<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Limits</span></h1>
 </div>
 
 
@@ -325,126 +332,157 @@ div.csl-indent {
 
 </header>
 
-<p>https://www.go-fair.org/fair-principles/</p>
-<p><span class="citation" data-cites="Wilkinson.etal.2016">(<a href="references.html#ref-Wilkinson.etal.2016" role="doc-biblioref">Wilkinson et al., 2016</a>)</span></p>
-<div class="callout callout-style-default callout-note callout-titled" title="FAIRness vs. openness">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-FAIRness vs.&nbsp;openness
-</div>
-</div>
-<div class="callout-body-container callout-body">
-<p>“does not necessarily mean that data has to be “open” […] even highly protected data can be FAIR data”<br>
-<span class="citation" data-cites="Kraft.2023a">(<a href="references.html#ref-Kraft.2023a" role="doc-biblioref">Kraft, 2023</a>)</span></p>
-</div>
-</div>
-<p><span class="citation" data-cites="Kraft.2023a">(<a href="references.html#ref-Kraft.2023a" role="doc-biblioref">Kraft, 2023</a>)</span> (FAIR principles and the role of scientists)</p>
+<section id="not-being-open-may-be-important" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="not-being-open-may-be-important"><span class="header-section-number">10.1</span> Not being open may be important</h2>
+<p><strong>When does “as closed as necessary” apply?</strong></p>
+<p>The protection of individuals comes first and is more important than the potential reuse of data</p>
 <div class="tabset-margin-container"></div><div class="panel-tabset">
-<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Findable</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">Accessible</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Interoperable</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-4-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-4" role="tab" aria-controls="tabset-1-4" aria-selected="false">Reusable</a></li></ul>
+<ul class="nav nav-tabs" role="tablist"><li class="nav-item" role="presentation"><a class="nav-link active" id="tabset-1-1-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-1" role="tab" aria-controls="tabset-1-1" aria-selected="true" aria-current="page">Marginalized/vulnerable groups</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-2-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-2" role="tab" aria-controls="tabset-1-2" aria-selected="false">“Closed doors”</a></li><li class="nav-item" role="presentation"><a class="nav-link" id="tabset-1-3-tab" data-bs-toggle="tab" data-bs-target="#tabset-1-3" role="tab" aria-controls="tabset-1-3" aria-selected="false">Costs &gt; benefit</a></li></ul>
 <div class="tab-content">
 <div id="tabset-1-1" class="tab-pane active" role="tabpanel" aria-labelledby="tabset-1-1-tab">
-<p><strong>The problem:</strong><br>
-Just because we provide data online, doesn’t mean that others will find it.</p>
-<p>We could have the greatest data set to answer further research questions - if our colleagues don’t know it exists or can’t locate the data, openness will be of little value.</p>
-<p><strong>The solutions:</strong></p>
 <ul>
-<li>Get a persistent identifier (e.g., DOI), where you provided your data
-<ul>
-<li>search for a research data center that fits your needs: <a href="https://www.re3data.org/">re3data.org</a></li>
-<li>recommended research data centers: <a href="https://www.forschungsdaten-bildung.de/">Verbund FDB (education, Germany)</a>, <a href="https://rdc-psychology.org/">RDC at ZPID (psychology, Germany)</a>, …</li>
-<li>recommended repositories: <a href="https://zenodo.org/">Zenodo</a>, <a href="https://www.psycharchives.org/">psycharchives.org</a>, <a href="https://osf.io/">osf.io</a>, …</li>
-</ul></li>
-<li>Mention DOI in publication that builds on this data (e.g., in the “data accessibility statement”)</li>
-<li>Describe your data as richly as possible (metadata). <em>Research data centers</em> offer form fields tailored to the discipline or data type. With <em>repositories</em> use alternative possibilities, such as keyword fields.
-<ul>
-<li>e.g., which variables does the quantitative data set contain?</li>
-<li>e.g., which topics does your data cover?</li>
-<li>e.g., which population did you draw your sample from?</li>
-</ul></li>
+<li>e.g., individuals traumatized by war or who experienced sexual abuse</li>
+<li>At the same time: Can sharing data help to protect these groups from being over-researched (possibly re-traumatization)?</li>
 </ul>
 </div>
 <div id="tabset-1-2" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-2-tab">
-<p><strong>The problem:</strong><br>
-Just because others find our data doesn’t mean the <em>access barriers</em> are as low as possible and doesn’t mean they know <em>in which way</em> they are allowed to access it. Examples:</p>
 <ul>
-<li>Providing a link to the data in the text of a paywalled journal article</li>
-<li>Unclear licensing / use conditions when providing data (e.g., are non-researchers allowed to access the data or is it only open for qualified researchers?)</li>
-</ul>
-<p><strong>The solutions:</strong></p>
-<ul>
-<li>Make sure access is free of charge (or as cheap as possible)
-<ul>
-<li>e.g., by providing link to data in publicly accessible sections of journal articles that are not open access</li>
-<li>e.g., by using repositories or research data centers that allow access free of charge</li>
-</ul></li>
-<li>Make sure users know if they can access and under which conditions
-<ul>
-<li>e.g., <em>research data centers</em> ensure that terms of use are clear (who may access under what conditions) and offer different levels of access restriction</li>
-<li>e.g., on <em>repositories</em> provide a readme-file and an open license (e.g., <a href="https://creativecommons.org/public-domain/cc0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC-BY</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC-BY-SA</a>) with data sets for access cases</li>
-</ul></li>
+<li>cases in which field access is obstructed or denied by the data provision <span class="citation" data-cites="Prosser.etal.2022">(<a href="references.html#ref-Prosser.etal.2022" role="doc-biblioref">Prosser et al., 2022</a>)</span></li>
+<li>cases in which sharing reduces the reduces the willingness to participate</li>
 </ul>
 </div>
 <div id="tabset-1-3" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-3-tab">
-<p><strong>The problem:</strong><br>
-Just because others downloaded our data doesn’t mean they can open and manipulate it.</p>
-<p><strong>The solutions:</strong></p>
 <ul>
-<li>Use file formats with open licenses
-<ul>
-<li>e.g., tabular data: CSV (with additional labelling script), RData</li>
-<li>e.g., text data: PDF, HTML, ODT, RTF</li>
-</ul></li>
-<li>Make sure users know how different files are related to one another
-<ul>
-<li>e.g., define which file contains student data and which teacher data</li>
-<li>e.g., define which file contains data from cohort 1 and which cohort 2, …</li>
-</ul></li>
-</ul>
-</div>
-<div id="tabset-1-4" class="tab-pane" role="tabpanel" aria-labelledby="tabset-1-4-tab">
-<p><strong>The problem:</strong><br>
-Just because others opened our data doesn’t mean they understand the data and its use-conditions. Examples:</p>
-<ul>
-<li>Others can’t understand what the column names of the tabular data set mean: Which columns in the data set relate to which variables in the journal article?</li>
-<li>Can someone from sociology use the data set from psychology they found on osf.io?</li>
-<li>Does someone reusing a data set have to cite the authors?</li>
-</ul>
-<p><strong>The solutions:</strong></p>
-<ul>
-<li>Adhere to standards in folder organization
-<ul>
-<li>e.g., <a href="https://psych-ds.github.io/">PSYCH-DS</a> (see technical specification draft)</li>
-</ul></li>
-<li>Rich description/explanation of what user will find <em>in</em> the data set (≠ meta descriptions about the data set <em>as a whole</em>, as for accessibility)
-<ul>
-<li>e.g., provide a codebook. How to semi-automatically create a codebook, see the R package <a href="https://cran.r-project.org/web/packages/codebook/readme/README.html"><code>codebook</code></a></li>
-</ul></li>
-<li>Provide a license for the use-cases
-<ul>
-<li>again, <em>research data centers</em> ensure that terms of use are clear (who may use under what conditions)</li>
-<li>again, on <em>repositories</em> provide a readme-file and an open license (e.g., <a href="https://creativecommons.org/public-domain/cc0/">CC0</a>, <a href="https://creativecommons.org/licenses/by/4.0/deed.de">CC-BY</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.de">CC-BY-SA</a>) with data sets for the use-cases</li>
-</ul></li>
+<li>e.g., low reuse potential -&gt; publish for reproducibility</li>
+<li>e.g., when obtaining permission from the school authorities is extremely complicated</li>
+<li>e.g., epistemic problem: context of data collection is highly relevant and other researchers “haven’t been there” <span class="citation" data-cites="Mauthner.etal.1998">(<a href="references.html#ref-Mauthner.etal.1998" role="doc-biblioref">Mauthner et al., 1998</a>)</span> -&gt; publish for intersubjective comprehensibility</li>
+<li>e.g., can’t anonymize data -&gt; synthpop, create input-output-documents via RMarkdown/Quarto</li>
 </ul>
 </div>
 </div>
 </div>
-
-
+<p><br>
+</p>
+</section>
+<section id="its-not-all-your-responsibility" class="level2 page-columns page-full" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="its-not-all-your-responsibility"><span class="header-section-number">10.2</span> It’s not all your responsibility</h2>
+<ul>
+<li>Responsibility of opening research is a <strong>collective responsibility</strong> in the <strong>“research ecosystem”</strong> <span class="citation" data-cites="EuropeanCommission.2018 RfII.2019">(<a href="references.html#ref-EuropeanCommission.2018" role="doc-biblioref">European Commission, 2018</a>; <a href="references.html#ref-RfII.2019" role="doc-biblioref">RfII, 2019</a>)</span></li>
+<li>Researchers are just one part of this</li>
+</ul>
+<p><img src="www/model.jpg" class="img-fluid" style="width:85.0%"></p>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Infrastructure
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Does suitable infrastructure exist?</li>
+<li>Is it “easy to use” and cheap?</li>
+<li>Is it tailored to my needs and type of data?</li>
+<li>Does it allow the implementation of FAIR data?</li>
+<li>Are there resources to support data sharing?</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-2-contents" aria-controls="callout-2" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Context
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-2" class="callout-2-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Do scientific societies, journals, or research funders encourage sharing?</li>
+<li>Is it common practice (“culture”) in my field of research to share data? <span class="citation" data-cites="Bishop.2006">(<a href="references.html#ref-Bishop.2006" role="doc-biblioref">Bishop, 2006</a>)</span></li>
+<li>Are there standards established for data sharing?</li>
+<li>Do ethics committees request detailed reasoning for the intent to collect own data as opposed to re-using?</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-3-contents" aria-controls="callout-3" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Research project
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-3" class="callout-3-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<p>See reasons above on</p>
+<ul>
+<li>Marginalized/vulnerable groups</li>
+<li>“Closed doors”</li>
+<li>Costs &gt; benefit</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="callout callout-style-default callout-note no-icon callout-titled">
+<div class="callout-header d-flex align-content-center" data-bs-toggle="collapse" data-bs-target=".callout-4-contents" aria-controls="callout-4" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon no-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Researchers
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-4" class="callout-4-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li>Willingness and concerns toward sharing data <span class="citation" data-cites="Mozersky.etal.2021">(<a href="references.html#ref-Mozersky.etal.2021" role="doc-biblioref">Mozersky et al., 2021</a>)</span></li>
+<li>Knowledge, experiences and skills with relevant processes</li>
+</ul>
+</div>
+</div>
+</div>
 
 <div class="no-row-height column-margin column-container"><div class="">
 <p>Questions to be answered at the end?<br>
 Please <a href="https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/">put them here</a>!</p>
-</div></div><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list" style="display: none">
-<div id="ref-Kraft.2023a" class="csl-entry" role="listitem">
-Kraft, A. (2023). <em>The <span>FAIR Data Principles</span></em>. <a href="https://doi.org/10.23668/PSYCHARCHIVES.13577">https://doi.org/10.23668/PSYCHARCHIVES.13577</a>
+</div></div><p><br>
+</p>
+
+
+<div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="list" style="display: none">
+<div id="ref-Bishop.2006" class="csl-entry" role="listitem">
+Bishop, L. (2006). A <span>Proposal</span> for <span>Archiving Context</span> for <span>Secondary Analysis</span>. <em>Methodological Innovation Online</em>, <em>1</em>(2), 10–20. <a href="https://doi.org/10.4256/mio.2006.0008">https://doi.org/10.4256/mio.2006.0008</a>
 </div>
-<div id="ref-Wilkinson.etal.2016" class="csl-entry" role="listitem">
-Wilkinson, M. D., Dumontier, M., Aalbersberg, Ij. J., Appleton, G., Axton, M., Baak, A., Blomberg, N., Boiten, J.-W., da Silva Santos, L. B., Bourne, P. E., Bouwman, J., Brookes, A. J., Clark, T., Crosas, M., Dillo, I., Dumon, O., Edmunds, S., Evelo, C. T., Finkers, R., … Mons, B. (2016). The <span>FAIR Guiding Principles</span> for scientific data management and stewardship. <em>Scientific Data</em>, <em>3</em>(1), 160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>
+<div id="ref-EuropeanCommission.2018" class="csl-entry" role="listitem">
+European Commission. (2018). <em><span>OSPP-REC</span>: <span>Open Science Policy Platform Recommendations</span>.</em> <span>Publications Office</span>.
+</div>
+<div id="ref-Mauthner.etal.1998" class="csl-entry" role="listitem">
+Mauthner, N. S., Parry, O., &amp; Backett-Milburn, K. (1998). The <span>Data</span> are <span>Out</span> there, or are <span>They</span>? <span>Implications</span> for <span>Archiving</span> and <span>Revisiting Qualitative Data</span>. <em>Sociology</em>, <em>32</em>(4), 733–745. <a href="https://doi.org/10.1177/0038038598032004006">https://doi.org/10.1177/0038038598032004006</a>
+</div>
+<div id="ref-Mozersky.etal.2021" class="csl-entry" role="listitem">
+Mozersky, J., McIntosh, T., Walsh, H. A., Parsons, M. V., Goodman, M., &amp; DuBois, J. M. (2021). Barriers and facilitators to qualitative data sharing in the <span>United States</span>: <span>A</span> survey of qualitative researchers. <em>PLOS ONE</em>, <em>16</em>(12), e0261719. <a href="https://doi.org/10.1371/journal.pone.0261719">https://doi.org/10.1371/journal.pone.0261719</a>
+</div>
+<div id="ref-Prosser.etal.2022" class="csl-entry" role="listitem">
+Prosser, A. M. B., Hamshaw, R. J. T., Meyer, J., Bagnall, R., Blackwood, L., Huysamen, M., Jordan, A., Vasileiou, K., &amp; Walter, Z. (2022). When open data closes the door: <span>A</span> critical examination of the past, present and the potential future for open data guidelines in journals. <em>British Journal of Social Psychology</em>, 12576. <a href="https://doi.org/10.1111/bjso.12576">https://doi.org/10.1111/bjso.12576</a>
+</div>
+<div id="ref-RfII.2019" class="csl-entry" role="listitem">
+RfII. (2019). <em>Herausforderung <span>Datenqualität</span> <span>Empfehlungen</span> zur <span>Zukunftsfähigkeit</span> von <span>Forschung</span> im digitalen <span>Wandel</span></em>.
 </div>
 </div>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -682,13 +720,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./definitions1.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Openness</span></span>
+      <a href="./definitions_exercise.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Exercise</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./definitions_exercise.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Exercise</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./workflow1.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Overview</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
