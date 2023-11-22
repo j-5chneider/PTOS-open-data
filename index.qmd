@@ -1,6 +1,6 @@
 # Welcome {.unnumbered}
 
-This is a workshop on open data.  
+This is a workshop on open and FAIR data.  
   
 ![](www/data-publication.jpg){width=450px}
   

@@ -35,7 +35,7 @@ The protection of individuals comes first and is more important than the potenti
 * Responsibility of opening research is a **collective responsibility** in the **"research ecosystem"** [@EuropeanCommission.2018; @RfII.2019]
 * Researchers are just one part of this
 
-![](www/model.jpg){width=85%}
+![](www/model.jpg){width=65%}
 
 ::: {.callout-note icon=false collapse="true"}
 ### Infrastructure

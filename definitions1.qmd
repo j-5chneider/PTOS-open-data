@@ -1,4 +1,7 @@
 # Openness
+\
+
+**Definition:**
 
 * **anyone**
 * can **readily access** the data
@@ -9,7 +12,7 @@
 \
 
 ::: {.callout-tip}
-## Openness is not a dichotomy
+## Openness is not a dogma and not a dichotomy
 
 "As open as possible as closed as necessary"  
 [@EuropeanCommission.2023a, p. 36]

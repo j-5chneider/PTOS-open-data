@@ -1,0 +1,20 @@
+{
+  "hash": "c531aeedf0fb91b3e1e7c780f699348d",
+  "result": {
+    "markdown": "# Researcher\n\n\n\n::: {.cell}\n\n:::\n\n\n\n## Researchers' perceptions\n\nOpen Data Survey [@Goodey.etal.2022]\n\n* **75%** of researchers say there is too little credit for sharing data \n* main drivers:\n  - perceived **higher citation** (67%)\n  - increased perceived **impact** and **visibility** (61%)\n\n\\\n\n## Classical metrics\n\n* Data for reuse: Additional publication (e.g., data note in F1000 Research)\n* Is there higher citation?\n   - studies with available data: **9%** more citations [@Piwowar.Vision.2013]\n   - studies with link to data in a repository: **25%** higher citation rates [@Colavizza.etal.2020]\n\n**But:**  \nSelection bias: Willingness to share ![](reasons_researcher1_files/figure-pdf/fa-icon-349eca15052fbe8544fa9abd7b81e335.pdf){height=.9em width=.9em} strength of evidence and quality of reporting [@Wicherts.etal.2011]\n\n**But:**  \nWith higher transparency, researchers have higher trust in authors [@Schneider.etal.2022c]  \n\\\n\n## New metrics: Get hired!\n\nnew metrics for evaluation evolving\n\n* [CoARA](https://coara.eu/): \"Value outputs associated with openness (FAIR data sets, [...]\" [@CoARA.2022, p. 21]\n   - signatories: DGPs, ERC, European Commission, DFG, Leibniz Association, ...\n* Example: DGPs recommendations on hiring and promotion [@Schonbrodt.etal.2022; @Gartner.etal.2022]\n  \n![](www/dgps_eval.jpg){width=100%}  \n[@Schonbrodt.etal.2022, p. 4]\n\n\n::: {.column-margin}\nQuestions to be answered at the end?  \nPlease [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!\n:::\n\n\\",
+    "supporting": [
+      "reasons_researcher1_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {
+      "knitr": [
+        "{\"type\":\"list\",\"attributes\":{},\"value\":[]}"
+      ]
+    },
+    "preserve": null,
+    "postProcess": false
+  }
+}

@@ -1,4 +1,5 @@
 # Exercise
+\
 
 1. Go to [this repository](https://github.com/j-5chneider/subcommunitiesOS)
 2. Discuss for **which purposes** you consider this type of sharing to be **suitable** / **less suitable**

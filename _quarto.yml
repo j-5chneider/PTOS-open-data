@@ -8,6 +8,7 @@ book:
   date-format: "DD MMMM YYYY"
   chapters:
     - index.qmd
+    - transparency.qmd
     - part: "Reasons"
       chapters:
         - reasons.qmd
@@ -40,10 +41,11 @@ book:
 
 bibliography: references.bib
 csl: https://raw.githubusercontent.com/citation-style-language/styles/master/apa.csl
+css: www/style.css
 
 format:
   html:
-    theme: [cosmo, style.css]
+    theme: cosmo
   pdf:
     documentclass: scrreprt
 

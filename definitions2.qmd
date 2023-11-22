@@ -1,16 +1,19 @@
 # FAIRness
 
-https://www.go-fair.org/fair-principles/
+**Purpose:**  
 
-[@Wilkinson.etal.2016]
+> "enhancing the ability of machines to automatically find and use the data, in addition to supporting its reuse by individuals" [@Wilkinson.etal.2016, p. 1]
+
+See also [go-fair.org](https://www.go-fair.org/fair-principles/)  
+\
+
 
 ::: {.callout-note title="FAIRness vs. openness"}
 "does not necessarily mean that data has to be “open” [...] even highly protected data can be FAIR data"  
 [@Kraft.2023a]
 :::
 
-
-[@Kraft.2023a] (FAIR principles and the role of scientists)
+\
 
 ::: {.panel-tabset}
 
@@ -87,6 +90,9 @@ Just because others opened our data doesn't mean they understand the data and it
 
 
 :::
+\
+
+[FAIR principles and the role of scientists: @Kraft.2023a]
 
 ::: {.column-margin}
 Questions to be answered at the end?  

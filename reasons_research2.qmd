@@ -1,8 +1,10 @@
 # Research II
 
 ## Reuse
+\
 
-The reuse of research data can take many forms
+The reuse of research data can take many forms  
+\
 
 
 

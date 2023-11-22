@@ -1,0 +1,41 @@
+# Transparency {.unnumbered}
+
+\
+
+### Affiliation
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](www/dipf-logo.png){width=100%}
+:::
+
+::: {.column width="75%"}
+**DIPF | Leibniz Institute for Research and Information in Education**  
+Project in the *Cooperation Center ShaReD - Sharing and Reusing Data*  
+  
+See [personal webpage](https://www.dipf.de/en/institute/staff/schneider-juergen?set_language=en)
+:::
+
+::::
+
+\
+
+### Cooperation
+
+:::: {.columns}
+
+::: {.column width="25%"}
+![](www/bildung-fdz-logo.png){width=100%}
+:::
+
+::: {.column width="75%"}
+\
+
+Working closely together, but not at the [research data center at DIPF](https://www.fdz-bildung.de/home?la=en)
+:::
+
+::::
+
+
+\

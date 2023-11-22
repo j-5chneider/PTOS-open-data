@@ -1,0 +1,14 @@
+{
+  "hash": "c531aeedf0fb91b3e1e7c780f699348d",
+  "result": {
+    "markdown": "# Researcher\n\n\n::: {.cell}\n\n:::\n\n\n## Researchers' perceptions\n\nOpen Data Survey [@Goodey.etal.2022]\n\n* **75%** of researchers say there is too little credit for sharing data \n* main drivers:\n  - perceived **higher citation** (67%)\n  - increased perceived **impact** and **visibility** (61%)\n\n\\\n\n## Classical metrics\n\n* Data for reuse: Additional publication (e.g., data note in F1000 Research)\n* Is there higher citation?\n   - studies with available data: **9%** more citations [@Piwowar.Vision.2013]\n   - studies with link to data in a repository: **25%** higher citation rates [@Colavizza.etal.2020]\n\n**But:**  \nSelection bias: Willingness to share `<svg preserveAspectRatio=\"none\" aria-hidden=\"true\" role=\"img\" viewBox=\"0 0 512 512\" style=\"height:.9em;width:.9em;vertical-align:-0.125em;margin-left:auto;margin-right:auto;font-size:inherit;fill:currentColor;overflow:visible;position:relative;\"><path d=\"M406.6 374.6l96-96c12.5-12.5 12.5-32.8 0-45.3l-96-96c-12.5-12.5-32.8-12.5-45.3 0s-12.5 32.8 0 45.3L402.7 224l-293.5 0 41.4-41.4c12.5-12.5 12.5-32.8 0-45.3s-32.8-12.5-45.3 0l-96 96c-12.5 12.5-12.5 32.8 0 45.3l96 96c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L109.3 288l293.5 0-41.4 41.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0z\"/></svg>`{=html} strength of evidence and quality of reporting [@Wicherts.etal.2011]\n\n**But:**  \nWith higher transparency, researchers have higher trust in authors [@Schneider.etal.2022c]  \n\\\n\n## New metrics: Get hired!\n\nnew metrics for evaluation evolving\n\n* [CoARA](https://coara.eu/): \"Value outputs associated with openness (FAIR data sets, [...]\" [@CoARA.2022, p. 21]\n   - signatories: DGPs, ERC, European Commission, DFG, Leibniz Association, ...\n* Example: DGPs recommendations on hiring and promotion [@Schonbrodt.etal.2022; @Gartner.etal.2022]\n  \n![](www/dgps_eval.jpg){width=100%}  \n[@Schonbrodt.etal.2022, p. 4]\n\n\n::: {.column-margin}\nQuestions to be answered at the end?  \nPlease [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!\n:::\n\n\\",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

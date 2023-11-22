@@ -1,6 +1,7 @@
 # External Incentives II
 
 ## Policies scientific societies
+  
 
 Examples of societies that have established a policy on open and FAIR data.  
   
@@ -14,10 +15,9 @@ Examples of societies that have established a policy on open and FAIR data.
 
 ```{r}
 ```
+\
 
-  
-
-`r fontawesome::fa("pencil", height="2em", width="2em")` Look up the scientific society most relevant to you and check if they have a **policy/recommendation/guideline** on open science or sharing data.
+> `r fontawesome::fa("pencil", height="1.2em", width="1.2em")` **"Homework":** Look up the scientific society most relevant to you and check if they have a *policy/recommendation/guideline* on open science or sharing data. What does it say on openness, FAIRness and limitations?
 
 \
 
@@ -34,8 +34,12 @@ E.g.,
 * [Psychological Science](https://www.psychologicalscience.org/publications/psychological_science/ps-submissions#DATA): Data transparency Level 1
   
 See the [TOP Factor website](https://topfactor.org/journals?factor=Data+Transparency) to search for the data transparency rating of your favorite journal.
-   
-Keep in mind: "Data available upon reasonable request" -> only 6.8% of data sets were acutally provided [@Gabelica.etal.2022]
+  
+\
+
+> `r fontawesome::fa("file-circle-xmark", height="1.2em", width="1.2em")` Evidence that **"Data available upon reasonable request"** often does not keep its promise. Only **6.8%** of data sets were acutally provided in an investigation [@Gabelica.etal.2022]
+
+
 
 ::: {.column-margin}
 Questions to be answered at the end?  

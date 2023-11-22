@@ -22,18 +22,18 @@ Research data centers have searchable databases
 
 * Providing data at a reseach data center costs time and money for you and the data center
 * Typically, 
-  - sharing for reuse purposes is suited for research data centers
-  - sharing for reproducibility purposes is suited for repositories
+  - sharing for **reuse** purposes is suited for **research data centers**
+  - sharing for **reproducibility** purposes is suited for **repositories**
    
 **Resources**  
 I am not aware of any standards to make this decision. Here are a couple of guidelines to decide, if your data is fit for reuse
 
 * Costs:
-  - How much effort is required for well-documented data sharing (e.g., Does a codebook exist? What steps are necessary for data cleaning/editing?)
-  - Is there consent for reuse available or would it have to be obtained retrospectively?
+  - How much **effort** is required for well-documented data sharing (e.g., Does a codebook exist? What steps are necessary for data cleaning/editing?)
+  - Is there **consent for reuse** available or would it have to be obtained retrospectively?
 * Benefits:
-  - Analysis potential (e.g., not fully analyzed, type of data, connected with other data sources)
-  - Quality of data (e.g., representative, size, special features of sample)
+  - Analysis **potential** (e.g., not fully analyzed, type of data, connected with other data sources)
+  - **Quality** of data (e.g., representative, size, special features of sample)
 
 ::: {.column-margin}
 Questions to be answered at the end?  

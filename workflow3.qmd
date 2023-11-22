@@ -2,6 +2,7 @@
 
 ## Write a data management plan
 **Why?**  
+
 * supports researchers in the process of generating FAIR research data
 * ensures good scientific practice
    
@@ -18,7 +19,7 @@ Standards
 * D-Psy-FAIR [@Blask.etal.2022]
   - [Manual](https://doi.org/10.23668/psycharchives.12180)
   - [Online Tutorial](https://doi.org/10.23668/psycharchives.12320)
-  - [Slides](https://doi.org/10.23668/psycharchives.12180)
+  - [Slides](https://doi.org/10.23668/psycharchives.8401)
 
 
 \
@@ -29,9 +30,10 @@ Deciding on a specific repository or research data center early on helps to
 
 * meet its requirements
 * identify whether there are templates available
-* identify whether the employees can support the sharing process
+* identify whether the employees can support the sharing process (in the case or RDC)
    
 **Resources**  
+
 * search for a research data center that fits your needs: [re3data.org](https://www.re3data.org/)
 * recommended research data centers: [Verbund FDB (education, Germany)](https://www.forschungsdaten-bildung.de/), [RDC at ZPID (psychology, Germany)](https://rdc-psychology.org/), ...
 * recommended repositories: [Zenodo](https://zenodo.org/), [psycharchives.org](https://www.psycharchives.org/), [osf.io](https://osf.io/), ... 

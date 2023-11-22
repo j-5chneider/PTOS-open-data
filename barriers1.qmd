@@ -1,10 +1,10 @@
-# Barriers
+# Exercise: Barriers
 
 Let's assume: Sharing data is possible. In one way or the other.  
   
-**Why isn't everybody sharing all data "as open as possible as closed as necessary"?**
+> **Why isn't everybody sharing all data "as open as possible as closed as necessary"?**
 
-1. Check out the [flow chart](workflow1.qmd) again
+1. Check out the flow chart again (see below)
 2. Individually [3min]: Reflect on 
    - What is a barrier/challenge to you?
    - What might be a powerful barrier/challenge for others?
@@ -17,5 +17,7 @@ Let's assume: Sharing data is possible. In one way or the other.
 Questions to be answered at the end?  
 Please [put them here](https://cryptpad.fr/pad/#/2/pad/edit/cuCPFUjVKcURc7JZSKt57dK2/embed/)!
 :::
+
+![](www/workflow.jpg){width=100%}
 
 \

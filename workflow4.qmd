@@ -1,11 +1,15 @@
 # Workflow 3
 
+```{r}
+```
+
+
 ## Informed consent
 **Why?**  
 
-* Personal data is subject to General Data Protection Regulation (GDPR)
-* Informed consent must therefore fulfill a number of requirements
-  - purpose of data collection (includes *sharing the data* and *future use*)<br />-> therefore often "broad consent"
+* *Personal data* is subject to General Data Protection Regulation (GDPR)
+* Informed consent must therefore fulfill a number of requirements. E.g.,
+  - purpose of data collection (includes *sharing the data* and *future use*)<br />`r fontawesome::fa("right-long", height="1em", width="1em")` therefore often "broad consent"
   - participation is voluntary and without disadvantages
   - revocation is possible at any time (until anonymized)
    
@@ -24,8 +28,9 @@
 ## Decide for access restrictions
 **Why?**  
 
-* Some data cannot or should not be anonymized (e.g., losing their reuse potential)
-* Therefore access needs to be restricted to certain groups (as defined in consent form)
+* Some data *cannot or should not be anonymized* (e.g., losing their reuse potential)
+   - Therefore access needs to be restricted to certain groups (as defined in consent form)
+* Some researchers fear being *scooped* [@Laine.2017]
 
 ::: {.callout-note collapse="true" icon=false}
 ### With repositories...
